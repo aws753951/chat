@@ -1,1 +1,3 @@
-"# chat" 
+練習用
+手動抓取line上對話進行簡單分析
+詳細內容請參照後續的line-robot-market專案
